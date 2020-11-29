@@ -2,7 +2,7 @@ title:              Utpal's Blog
 email:              cs14mtech11017@iith.ac.in
 description:        Little from here, little from there!!
 author:             Utpal Bora
-baseurl:            "/blog"
+#baseurl:            "/blog"
 url:                "https://utpalbora.github.io"
 
 # Social Profiles
